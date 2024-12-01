@@ -1,4 +1,5 @@
-# Microsoft-MSFT-Stock-Data-1986-to-December-2024This dataset contains the historical stock data for Microsoft Corporation (MSFT), sourced from Yahoo Finance, spanning from its initial public offering (IPO) on March 13, 1986 through to December 2024. The data includes daily stock prices and provides essential details such as:
+# Microsoft-MSFT-Stock-Data-1986-to-December-2024
+This dataset contains the historical stock data for Microsoft Corporation (MSFT), sourced from Yahoo Finance, spanning from its initial public offering (IPO) on March 13, 1986 through to December 2024. The data includes daily stock prices and provides essential details such as:
 
 Date: The specific trading date for each record.
 Open: The opening price of Microsoft’s stock for that day.
